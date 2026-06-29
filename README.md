@@ -15,8 +15,6 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadKhanRaj&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/FahadKhanRaj)
-&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=FahadKhanRaj&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
