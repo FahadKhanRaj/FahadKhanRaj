@@ -23,7 +23,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhanRaj&theme=react-dark&bg_color=0d1117&color=58a6ff&line=6e40c9&point=e6edf3&hide_border=true&area=true" width="100%"/>
+<!--
+  NOTE FOR FUTURE EDITORS (human or AI):
+  The contribution graph below is INTENTIONALLY STATIC. It is a frozen snapshot
+  (the file `contribution-graph.svg` committed in this repo) captured on 2026-06-29,
+  so the graph will NOT change over time even if GitHub activity goes quiet.
+
+  The line just below this note is the ORIGINAL DYNAMIC version (live, auto-updating
+  from the github-readme-activity-graph service). It is commented out on purpose.
+  To go back to the live auto-updating graph: delete the static <img> tag further down,
+  then uncomment the dynamic <img> tag immediately below.
+
+  DYNAMIC (commented out):
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhanRaj&theme=react-dark&bg_color=0d1117&color=58a6ff&line=6e40c9&point=e6edf3&hide_border=true&area=true" width="100%"/>
+-->
+
+<!-- STATIC (currently active) -->
+<img src="https://raw.githubusercontent.com/FahadKhanRaj/FahadKhanRaj/main/contribution-graph.svg" width="100%"/>
 
 </div>
 
