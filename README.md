@@ -31,9 +31,7 @@
 
 <div align="center">
 <!-- <sub>QA Engineer @ TheySaid.io (US Remote) · First Author @ IEEE STI 5.0 · Top Performer SDET</sub> -->
-<br><br>
-
-[LinkedIn](https://linkedin.com/in/fahad-khan-raj) · fahad.khan.raj.mail@gmail.com
+<!-- [LinkedIn](https://linkedin.com/in/fahad-khan-raj) · fahad.khan.raj.mail@gmail.com -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:6e40c9,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20reliable&fontColor=e6edf3&fontSize=18&animation=fadeIn" width="100%"/>
 </div>
